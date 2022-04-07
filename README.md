@@ -12,7 +12,7 @@
 
 <div align="center"><hr>
     <a href="https://guespindola.github.io/site/"><img
-            src="https://uploaddeimagens.com.br/images/003/817/396/original/126034683_3730013297029797_9160149791978720649_n_copiar_2.png?1649357098"
+            src="https://uploaddeimagens.com.br/images/003/817/468/original/126034683_3730013297029797_9160149791978720649_n_copiar_2.png?1649358063"
             target="_blank"></a>
     <a href="mailto:guespindola@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
