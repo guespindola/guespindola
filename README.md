@@ -1,5 +1,5 @@
 <div align="center"> 
-<a href="https://guespindola.github.io/site/" target="_blank"><img src="https://uploaddeimagens.com.br/images/003/817/037/original/126034683_3730013297029797_9160149791978720649_n_copiar.png?1649351983" target="_blank"></a>
+<a href="https://guespindola.github.io/site/" target="_blank"><img src="https://uploaddeimagens.com.br/images/003/817/047/original/126034683_3730013297029797_9160149791978720649_n_copiar.png?1649352104" target="_blank"></a>
 </div>
 
 <div align="center">
