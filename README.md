@@ -11,7 +11,7 @@
   
 <div align="center"> 
 <a href="https://guespindola.github.io/site/" target="_blank"><img align="right" alt="Gu-pic" height="150" style="border-radius:50px;"src="https://uploaddeimagens.com.br/images/003/817/047/original/126034683_3730013297029797_9160149791978720649_n_copiar.png?1649352104" target="_blank"></a>
-<img align="right" alt="Gu-pic" height="150" style="border-radius:50px;" src="https://uploaddeimagens.com.br/images/003/816/672/original/20161107_002240000_iOS12.JPG?1649346180">
+<img align="left" alt="Gu-pic" height="150" style="border-radius:50px;" src="https://uploaddeimagens.com.br/images/003/816/672/original/20161107_002240000_iOS12.JPG?1649346180">
 </div>
  
 <div> 
