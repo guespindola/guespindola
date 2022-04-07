@@ -1,4 +1,6 @@
- <a href="https://guespindola.github.io/site/" target="_blank"><img src="https://uploaddeimagens.com.br/images/003/816/867/original/portfolio-logo-png-.png?1649349663" target="_blank"></a>
+<div align="center"> 
+<a href="https://guespindola.github.io/site/" target="_blank"><img src="https://uploaddeimagens.com.br/images/003/816/877/original/portfolio-logo-png-.png?1649349772" target="_blank"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/guespindola">
