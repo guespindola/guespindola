@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/guespindola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guespindola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guespindola&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/gumanues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gumanues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumanues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div><br>
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,13 +11,13 @@
 
 
 <div align="center"><hr>
-    <a href="https://guespindola.github.io/site/"><img
+    <a href="https://gumanues.github.io/site/"><img
             src="https://uploaddeimagens.com.br/images/003/817/468/original/126034683_3730013297029797_9160149791978720649_n_copiar_2.png?1649358063"
             target="_blank"></a>
-    <a href="mailto:guespindola@gmail.com"><img
+    <a href="mailto:gumanues@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
-    <a href="https://www.linkedin.com/in/guespindola" target="_blank"><img
+    <a href="https://www.linkedin.com/in/gumanues" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 
@@ -25,5 +25,5 @@
  
 <div align="center"> 
  
-  ![Snake animation](https://github.com/guespindola/guespindola/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gumanues/gumanues/blob/output/github-contribution-grid-snake.svg)
 </div>
